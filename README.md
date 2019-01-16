@@ -25,6 +25,7 @@
       DDR432GB Ram、
       杀手网卡不工作替换DW1830
       PM981 1TB不能正常工作，替换PRO960 1TB
+     
 
 ## 工作
       显卡正常：Intel Graphics accelleration(uhd630)		
@@ -32,6 +33,9 @@
       声卡正常：Audio （13、30）
       屏幕亮度：brightlight control（需要键盘设置 F11、F12）
       睡眠：sleep正常（盒盖正常）
+      显示器：Retina正常
+      触摸屏：正常驱动
+      触控板：开启手势
 
 ## 不工作（需要解决的问题）
       HDMI 外屏输出会直接重启
