@@ -29,4 +29,17 @@ HDMI 外屏输出会直接重启
 
 SD读卡器硬件设备不认 无法正常工作
 
-雷劈3设备里面没识别出来 没有设备测试
+雷劈3设备里面没识别出来没有设备测试
+
+![setting](./1.jpg)
+![setting](./2.jpg)
+![setting](./3.jpg)
+![setting](./4.jpg)
+![setting](./5.jpg)
+![setting](./6.jpg)
+![setting](./7.jpg)
+![setting](./8.jpg)
+![setting](./9.jpg)
+![setting](./10.jpg)
+![setting](./11.jpg)
+
