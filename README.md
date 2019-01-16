@@ -15,9 +15,10 @@
 
 ## 全新安装10.14.2
 
-      系统安装：使用macOS-Mojave OSInstaller 安装，重启进入系统
-      系统驱动：重建kextcache然后重启(sudo kextcache -i /) 
-               替换DELL XPS 15 9570 8950 4K macOS Mojave EFI文件夹
+      系统安装：1.使用macOS-Mojave OSInstaller 安装，重启进入系统
+      系统驱动：2.重建kextcache(sudo kextcache -i /) 
+               3.替换DELL XPS 15 9570 8950 4K macOS Mojave EFI文件夹
+               4.重启
 
 ## 设备
       uhd display
