@@ -21,7 +21,7 @@
                4.重启
 
 ## 设备
-      uhd display
+      uhd display 630
       8950HK
       DDR432GB Ram、
       杀手网卡不工作替换DW1830
