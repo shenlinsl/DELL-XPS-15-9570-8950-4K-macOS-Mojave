@@ -36,7 +36,7 @@
       显卡正常：Intel Graphics accelleration(uhd630)		
       无线蓝牙正常：wifi & bluetooth (dw1830)
       声卡正常：Audio （13、30）
-      摄像头：正在工作
+      摄像头：正常工作
       屏幕亮度：brightlight control（需要键盘设置 F11、F12）
       睡眠：sleep正常（盒盖正常）
       显示器：Retina正常
@@ -50,7 +50,7 @@
       电池容量识别82瓦，实际电池容量为95瓦。（容量没有正确识别）
 
 ## 感谢
-      为Hackintosh做的驱动设备大神们（这就不列举）
+      为Hackintosh做的驱动设备大神们（这就不一一列举）
       感谢FireWolf Pl解决的零恐慌问题
       特别感谢身边的好友们，少华、官人、火腿肠、涛哥、大表哥、黑果小兵等兄弟们的帮助！
       
